@@ -1,3 +1,3 @@
-# LogisticRegression_DataAnalytics_2204
+# Regression_DataAnalytics_2204
 
-LogisticRegression data modelling over diamonds.csv dataset.
+Regression data modelling over diamonds.csv dataset.
